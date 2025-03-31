@@ -2,7 +2,6 @@
 <html lang="en" data-layout="vertical" data-topbar="light" data-sidebar="dark" data-sidebar-size="lg" data-sidebar-image="none" data-preloader="disable" data-theme="default" data-theme-colors="default">
 
 
-<!-- Mirrored from themesbrand.com/velzon/html/master/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 29 Oct 2024 07:29:52 GMT -->
 
 <head>
 
@@ -12,8 +11,6 @@
     <meta content="Premium Multipurpose Admin & Dashboard Template" name="description" />
     <meta content="Themesbrand" name="author" />
 
-    <!-- CSS -->
-    <!-- <link rel="icon" type="image/png" href="assets/images/logo/logo.png"> -->
     <?php
     require_once "libs_css.php";
     ?>
@@ -24,14 +21,14 @@
 
 <body>
 
-    <!-- Begin page -->
+    
     <div id="layout-wrapper">
 
 <header id="page-topbar">
     <div class="layout-width">
         <div class="navbar-header">
             <div class="d-flex">
-                <!-- LOGO -->
+               
                 <div class="navbar-brand-box horizontal-logo">
                     <a href="../index.php" class="logo logo-dark">
                         <span class="logo-sm">
@@ -86,7 +83,7 @@
                         </span>
                     </button>
                     <div class="dropdown-menu dropdown-menu-end">
-                        <!-- item-->
+                       
                         <h6 class="dropdown-header">Tuấn Anh</h6>
                         <a class="dropdown-item" href="index.php?act=dangxuat"><i class="mdi mdi-logout text-muted fs-16 align-middle me-1"></i> <span class="align-middle" data-key="t-logout">Đăng Xuất</span></a>
                         <a class="dropdown-item" href="../index.php"><i class="mdi mdi-logout text-muted fs-16 align-middle me-1"></i> <span class="align-middle" data-key="t-logout">Trở Lại trang chủ</span></a>

@@ -2,7 +2,7 @@
     <div class="page-content">
         <div class="container-fluid">
             <div class="row">
-                <!-- nhập content -->
+                
                 <h2>Sửa trạng thái đơn hàng: <?= $donhang['ma_don_hang'] ?></h2>
 <form action="index.php?act=admin_donhang_update_save" method="POST">
     <input type="hidden" name="ma_don_hang" value="<?= $donhang['ma_don_hang'] ?>">
@@ -21,7 +21,6 @@
 
 </form>
 
-                <!-- nhập content -->
             </div>
         </div>
     </div>

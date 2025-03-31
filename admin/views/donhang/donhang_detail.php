@@ -31,7 +31,7 @@
                         </tr>
 
                         <tr>
-                            <!-- nhập content -->
+                            
                             <form action="index.php?act=admin_donhang_update_save" method="POST">
                                 <input type="hidden" name="ma_don_hang" value="<?= $donhang['ma_don_hang'] ?>">
                                 <label class="form-label" for="trang_thai">Trạng thái:</label>
@@ -77,7 +77,7 @@
                 </table>
                 <a class="btn btn-primary" href="index.php?act=admin_donhang">Quay Lại</a>
 
-                <!-- nhập content -->
+                
             </div>
         </div>
     </div>

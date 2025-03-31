@@ -43,7 +43,6 @@
     </tbody>
 </table>
 
-                <!-- nhập content -->
             </div>
         </div>
     </div>
